@@ -1,0 +1,4 @@
+*.Dockersecret
+.built
+.running
+Dockerfile
